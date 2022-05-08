@@ -1,4 +1,5 @@
-// Cambio del alumno 2 (Rodrigo Gonzalez Joaquin)
+//Cambio alumno 2
+
 import java.util.Scanner;
 
 public class Ejercicio1 {
