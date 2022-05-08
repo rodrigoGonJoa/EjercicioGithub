@@ -1,4 +1,4 @@
-//Cambio alumno 2
+//Cambio alumno Mauri Fernandez
 
 import java.util.Scanner;
 
