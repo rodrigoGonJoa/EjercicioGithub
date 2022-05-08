@@ -1,3 +1,5 @@
+//Cambio del D. Mauricio Fernández Hernández
+
 import java.util.Scanner;
 
 public class Ejercicio1 {
